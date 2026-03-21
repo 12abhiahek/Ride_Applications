@@ -1,0 +1,6 @@
+com\ride\RideApplication\entity\Ride.class
+com\ride\RideApplication\RideApplication.class
+com\ride\RideApplication\entity\Ride$RideBuilder.class
+com\ride\RideApplication\entity\Driver$DriverBuilder.class
+com\ride\RideApplication\entity\User.class
+com\ride\RideApplication\entity\Driver.class
